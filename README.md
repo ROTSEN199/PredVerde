@@ -27,7 +27,8 @@ El dispositivo contará con una aplicación, esta contará con:
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
 
 ## Software empleado 
-| Nombre | Licencia ||:-:|:-:|
+| Nombre | Licencia |
+|:-:|:-:|
 | a | b |
 | a | b |
 | a | b |
