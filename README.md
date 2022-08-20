@@ -95,6 +95,15 @@ https://trello.com/b/RLmiaqJo/primer-sprint
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
 
+## Sprints del proyecto
+![Sprint1](https://user-images.githubusercontent.com/99632467/185732521-3916eff6-c29b-4334-b905-4b4db8972bd8.jpeg)
+
+![Sprint2](https://user-images.githubusercontent.com/99632467/185732526-359a746b-7627-43ec-a4e2-f35764aefd30.jpeg)
+
+![Sprint3](https://user-images.githubusercontent.com/99632467/185732533-f2752d65-cc21-47cd-9333-d791a34036e9.jpeg)
+
+## Resultados
+
 ## Conclusiones 
 
 Las investigaciones revisadas a lo largo de este proyecto, evidencian una de las grandes problemáticas que se presenta a nivel Nacional y mundial. Como lo es el mal uso de la funtes hídricas y el desgate de mano de obra en pequeños productores agricultores, que no cuentan con un apoyo tegonologico para mantener la mano de obra y ahorrar agua. Se logró encender/apagar algún dispositivo por medio de teléfonos celulares, que a su vez posibilita la automatización del riego, en tiempo real, a partir de variables de suelo, clima y cultivo, con el fin de de alcanzar una mayor eficiencia en la aplicación del limitado recurso agua.
