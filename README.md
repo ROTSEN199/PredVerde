@@ -1,9 +1,10 @@
-# PredVerde
 # ParedVerde
 
 # Autores
 - Sergio Abisay Cervantes Sánchez.
 - Nestor Emmanuel Briones Ramírez.
+- Alma Daniela Serna Camarillo
+- Jesus Fernando Gonzalez Pedroza
 
 ## Justificación 
 
