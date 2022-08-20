@@ -25,8 +25,9 @@ El proyecto monitoriza el cuidado de plantas en un entorno en el cual las planta
 El dispositivo contará con una aplicación, esta contará con:
 1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
+## Software empleado 
 
-## Material de uso  
+## Hardware empleado 
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
