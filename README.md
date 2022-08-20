@@ -29,9 +29,9 @@ El dispositivo contará con una aplicación, esta contará con:
 ## Software empleado 
 | Nombre | Licencia |
 |:-:|:-:|
-| a | b |
-| a | b |
-| a | b |
+| App Inventor | Gratuita |
+| Node Red | Gratuita |
+| Arduino IDE | Gratuito |
 
 ## Hardware empleado 
 
